@@ -1,6 +1,6 @@
 f=open("harry.txt","rt")
-print(f.readlines())
-# print(f.readline())
+# print(f.readlines())
+print(f.readline())
 # print(f.readline())
 # print(f.readline())
 
