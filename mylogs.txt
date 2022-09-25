@@ -1,0 +1,4 @@
+drank water at 2021-06-26 21:28:45.303731
+did physical exercise at 2021-06-26 21:28:50.555692
+drank water at 2021-06-26 21:28:55.303865
+did eye exercise at 2021-06-26 21:29:02.951116
